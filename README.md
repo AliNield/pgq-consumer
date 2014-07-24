@@ -1,3 +1,5 @@
+![Alt text](https://api.travis-ci.org/AliNield/pgq-consumer.svg?branch=Add-Travis-CI-to-pgq-consumer "Build Status")
+
 pgq-consumer
 ============
 
